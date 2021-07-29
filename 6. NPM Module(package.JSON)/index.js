@@ -1,0 +1,2 @@
+// npm init - Type this on Terminal and then it will ask to type and type the details and after completion a file (package.json will be created)
+// npm chalk - This is a chalk module we can get this online (package-lock.json(file) and a node-modules(FOlder) will be created)
